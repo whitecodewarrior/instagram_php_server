@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mgp25/instagram-php": "v1.5.0.1"
+    }
+}
